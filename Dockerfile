@@ -13,3 +13,4 @@ COPY url_to_markdown_processor.js /var/www
 COPY url_to_markdown_readers.js /var/www
 COPY index.js /var/www/
 ENV PORT=1337
+CMD [ "node", "index.js" ]
