@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://urltomarkdown.herokuapp.com"
+      "url": "https://md-tool.kimhabork.site/"
     }
   ],
   "paths": {
